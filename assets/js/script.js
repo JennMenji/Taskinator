@@ -246,3 +246,5 @@ formEl.addEventListener("submit", taskFormHandler);
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
 
 loadTasks();
+
+// adding line of code here because I pushed to the main branch too early and need to follow 4.4.9 lesson on modules. So I need the develop branch to have changes that the main one doesn't
